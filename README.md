@@ -35,9 +35,6 @@
 <!-- <h3 align="center">📫 Contact 📫</h3> -->
 <h2 align="center" style="border-bottom: 1px solid #21262d; color: #c9d1d9;">📫 Contact 📫</h2>
 <div align="center">
-  <a href="https://velog.io/@immi">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="mailto:l.chloe1573@gmail.com">
     <img
       src="https://img.shields.io/badge/l.chloe1573@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>&nbsp
